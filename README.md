@@ -5,6 +5,8 @@
 
 [概率论与数理统计](https://github.com/IammyselfYBX/Probability_Statistics)
 
+[吉林大学 线性代数66讲 陈殿友](https://github.com/IammyselfYBX/JLU_linear_algebra)
+
 ---
 ## 英语
 [赖世雄英语](https://github.com/IammyselfYBX/laishixiong_English)
@@ -14,6 +16,19 @@
 [200个一定要学的英文词根词缀](https://github.com/IammyselfYBX/200roots_and_affixes)
 
 [程序员的英语](https://github.com/IammyselfYBX/Programmer_English)
+
+[美音纠音透析与突破](https://github.com/IammyselfYBX/American-sound-correction-dialysis-and-breakthrough)
+
+[大学英语四六级考试](https://github.com/IammyselfYBX/College-English-test-band-4_6-certificate)
+
+[十天搞定考研词汇](https://github.com/IammyselfYBX/Finish-the-vocabulary-test-in-ten-days)
+
+[\[跟谁学\]自然拼读](https://github.com/IammyselfYBX/nature_speak)
+
+
+---
+## 法语
+[简明法语教程](https://github.com/IammyselfYBX/Brief-French-course)
 
 ---
 ## 能力
@@ -26,9 +41,14 @@
 ### 时间管理
 [《把时间当作朋友》](https://github.com/IammyselfYBX/Time_as_a_friend)
 
-### 创作
-[GIMP_Essential_Training]()
+### 情商
+[蔡康永的201堂情商课](https://github.com/IammyselfYBX/201-EMOTIONAL-Intelligence-Lessons-by-caikangyong)
 
+### 创作
+[GIMP_Essential_Training](https://github.com/IammyselfYBX/2020_NCEPU_PPT)
+
+### 亲子
+[刘墉聪明家长](https://github.com/IammyselfYBX/smart_parents)
 
 ---
 ## 论文
@@ -42,4 +62,7 @@
 ### 音乐
 [方文山的音乐课](https://github.com/IammyselfYBX/fangwenshan_music)
 
+### 毕业
+[2020毕业论文](https://github.com/IammyselfYBX/2020_Nightmare_striker)
 
+[2020毕业答辩PPT](https://github.com/IammyselfYBX/2020_NCEPU_PPT)
