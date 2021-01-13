@@ -1,5 +1,9 @@
 # Learning
 ---
+## 学习方法
+[北大学霸教你快速学会你想学的任何知识](https://github.com/IammyselfYBX/PKU_learn_anything)
+
+---
 ## 数学
 [程序员的数学](https://github.com/IammyselfYBX/Programmer_math)
 
