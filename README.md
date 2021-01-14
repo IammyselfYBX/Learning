@@ -3,6 +3,9 @@
 ## 学习方法
 [北大学霸教你快速学会你想学的任何知识](https://github.com/IammyselfYBX/PKU_learn_anything)
 
+### 记笔记
+[颠覆你想象的高效笔记术](https://www.bilibili.com/video/BV1Mp4y1i7v8)
+
 ---
 ## 数学
 [程序员的数学](https://github.com/IammyselfYBX/Programmer_math)
