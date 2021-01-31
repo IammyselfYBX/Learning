@@ -6,6 +6,22 @@
 ### 记笔记
 [颠覆你想象的高效笔记术](https://www.bilibili.com/video/BV1Mp4y1i7v8)
 
+### 压力管理
+[压力管理第1-3讲](https://www.bilibili.com/video/BV1d54y1p7wj)
+
+### 思维导图
+[思维导图第1-10讲](https://www.bilibili.com/video/BV1up4y1s7c4/)
+
+### 时间管理
+[时间管理](https://www.bilibili.com/video/BV1RN41197Ys/)
+
+### 知识管理
+[知识管理](https://www.bilibili.com/video/BV1cy4y12716/)
+
+### 精力与睡眠管理
+[精力管理第1-4讲](https://www.bilibili.com/video/BV1MN411o75A/)
+
+
 ---
 ## 数学
 [程序员的数学](https://github.com/IammyselfYBX/Programmer_math)
