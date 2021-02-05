@@ -48,6 +48,9 @@
 
 [\[跟谁学\]自然拼读](https://github.com/IammyselfYBX/nature_speak)
 
+[赵亮语法课程](https://www.bilibili.com/video/BV1hN411R7W9/)
+
+[eva老师自然拼读](https://www.bilibili.com/video/BV1Xy4y1n7Tv/)
 
 ---
 ## 法语
