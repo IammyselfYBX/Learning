@@ -22,6 +22,7 @@
 [精力管理第1-4讲](https://www.bilibili.com/video/BV1MN411o75A/)
 
 
+
 ---
 ## 数学
 [程序员的数学](https://github.com/IammyselfYBX/Programmer_math)
@@ -83,6 +84,10 @@
 [2020 答辩PPT](https://github.com/IammyselfYBX/2020_Graduation-reply)
 
 [花店PPT](https://github.com/IammyselfYBX/2020_NCEPU_PPT)
+
+[英文科技论文写作](https://www.bilibili.com/video/BV1tv411r7Y6)
+> [备份1](https://www.bilibili.com/video/BV1f5411h7S2)&emsp;[备份2](https://www.bilibili.com/video/BV1NA411g75A/)
+
 
 ---
 ### 音乐
