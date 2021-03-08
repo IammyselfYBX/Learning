@@ -3,6 +3,10 @@
 ## 学习方法
 [北大学霸教你快速学会你想学的任何知识](https://github.com/IammyselfYBX/PKU_learn_anything)
 
+[清华学霸】学习法：拒绝死记硬背，【12节课】开发左右脑，重塑学习力，让孩子高效学习](https://www.bilibili.com/video/BV1EU4y1p79D/)
+> [备份](https://www.bilibili.com/video/BV1ev411Y7ue)
+
+
 ### 记笔记
 [颠覆你想象的高效笔记术](https://www.bilibili.com/video/BV1Mp4y1i7v8)
 
