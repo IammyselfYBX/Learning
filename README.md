@@ -6,6 +6,8 @@
 [清华学霸】学习法：拒绝死记硬背，【12节课】开发左右脑，重塑学习力，让孩子高效学习](https://www.bilibili.com/video/BV1EU4y1p79D/)
 > [备份](https://www.bilibili.com/video/BV1ev411Y7ue)
 
+[人生规划课，21天带你规划出可落地的精彩人生](https://www.bilibili.com/video/BV11f4y147Jv/)
+> [备份](https://www.bilibili.com/video/BV1bN411Q7PY)
 
 ### 记笔记
 [颠覆你想象的高效笔记术](https://www.bilibili.com/video/BV1Mp4y1i7v8)
