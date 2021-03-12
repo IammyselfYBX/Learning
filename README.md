@@ -15,6 +15,9 @@
 ### 压力管理
 [压力管理第1-3讲](https://www.bilibili.com/video/BV1d54y1p7wj)
 
+[改变看法与自我认知，黄执中情绪沟通课](https://www.bilibili.com/video/BV1kZ4y1P741/)
+> [备份](https://www.bilibili.com/video/BV1Lt4y167yS)
+
 ### 思维导图
 [思维导图第1-10讲](https://www.bilibili.com/video/BV1up4y1s7c4/)
 
@@ -27,7 +30,14 @@
 ### 精力与睡眠管理
 [精力管理第1-4讲](https://www.bilibili.com/video/BV1MN411o75A/)
 
+### 沟通
+[学会说话，营造成功的事业和人生](https://www.bilibili.com/video/BV1Lp4y1H7yM/)
+> [备份](https://www.bilibili.com/video/BV14r4y1N7kz)
 
+
+### 认知力
+[认知力：做迷茫时代的明白人](https://www.bilibili.com/video/BV1HN411Q7cN/)
+> [备份](https://www.bilibili.com/video/BV1mr4y1N7BX)
 
 ---
 ## 数学
