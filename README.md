@@ -12,8 +12,8 @@
 [加州大学公开课，帮你快速掌握学习本质](https://www.bilibili.com/video/BV1MK4y1n7L3/)
 > [备份](https://www.bilibili.com/video/BV1D54y1a7Z8)
 
-[哈佛心智训练课，15天看见效率翻倍的自己](https://www.bilibili.com/video/BV1jy4y187HQ/)
-> [备份](https://www.bilibili.com/video/BV1Yp4y1x7jf?p=2)
+[哈佛心智训练课，15天看见效率翻倍的自己](https://www.bilibili.com/video/BV1Gh411Q76u/)
+> [备份](https://www.bilibili.com/video/BV1Yp4y1x7jf)
 
 ### 记笔记
 [颠覆你想象的高效笔记术](https://www.bilibili.com/video/BV1Mp4y1i7v8)
