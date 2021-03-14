@@ -18,6 +18,9 @@
 [改变看法与自我认知，黄执中情绪沟通课](https://www.bilibili.com/video/BV1kZ4y1P741/)
 > [备份](https://www.bilibili.com/video/BV1Lt4y167yS)
 
+[冥想正念指南 Headspace Guide To Meditation](https://www.bilibili.com/video/BV13K4y1U7ne/)
+> [备份](https://www.bilibili.com/video/BV11z4y1m7JK?p=1)
+
 ### 思维导图
 [思维导图第1-10讲](https://www.bilibili.com/video/BV1up4y1s7c4/)
 
@@ -37,7 +40,10 @@
 
 ### 认知力
 [认知力：做迷茫时代的明白人](https://www.bilibili.com/video/BV1HN411Q7cN/)
-> [备份](https://www.bilibili.com/video/BV1mr4y1N7BX)
+> [备份](https://www.bilibili.com/video/BV1mr4y1N7BX)&emsp;[备份](https://www.bilibili.com/video/BV1qZ4y1P7Tt/)
+
+[哈佛心智训练课，15天看见效率翻倍的自己](https://www.bilibili.com/video/BV1Gh411Q76u/)
+> [备份](https://www.bilibili.com/video/BV1Yp4y1x7jf)
 
 ---
 ## 数学
@@ -87,11 +93,19 @@
 ### 情商
 [蔡康永的201堂情商课](https://github.com/IammyselfYBX/201-EMOTIONAL-Intelligence-Lessons-by-caikangyong)
 
+### 理财
+[理财入门课，帮你改变财务理念](https://www.bilibili.com/video/BV1qf4y147ds/)
+> [备份](https://www.bilibili.com/video/BV14V411Y7wm)
+
 ### 创作
 [GIMP_Essential_Training](https://github.com/IammyselfYBX/2020_NCEPU_PPT)
 
 ### 亲子
 [刘墉聪明家长](https://github.com/IammyselfYBX/smart_parents)
+
+
+[读书变现课，把读过的书变成钱](https://www.bilibili.com/video/BV1Kf4y1t7Vc/)
+> [备份](https://www.bilibili.com/video/BV1eh41127Zz)
 
 ---
 ## 论文
